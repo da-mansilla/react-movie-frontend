@@ -1,0 +1,7 @@
+.movie{
+    width: 18rem;
+}
+.card-movie-image{
+    object-fit: contain;
+    height: 18rem;
+}
